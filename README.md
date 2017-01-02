@@ -1,5 +1,6 @@
-# graphly
-Techniques for Exploring Graphs
+# Graphly
+
+A sandbox to experiement with machine learning and graph mining 
 
 ## igraph
 
@@ -19,7 +20,9 @@ Next to tackle:
 - https://blog.dominodatalab.com/social-network-analysis-with-networkx/
 
 ## Directories
+
 `./Modularity` Modularity | Clustering | Community Detection 
+
 `./Theano` Jupyter notebooks on Theano setup and examples.
 
 ## StarLog
