@@ -18,8 +18,8 @@ The following was requrired by igraph to work in script (CLI):
 Next to tackle:
 - https://blog.dominodatalab.com/social-network-analysis-with-networkx/
 
-## Theano
-
+## Directories
+`./Modularity` Modularity | Clustering | Community Detection 
 `./Theano` Jupyter notebooks on Theano setup and examples.
 
 ## StarLog
