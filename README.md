@@ -1,10 +1,28 @@
-# Graphly
+# Xplograph
 
-A sandbox to experiement with machine learning and graph mining 
+A sandbox for exploring graphs and machine learning.
 
-## igraph
+Graphs are also referred to as networks and formaly defined by:
 
-## Modularity
+G = (V,E) 
+
+##  Machine Learning
+
+Machine learning and optimization methos.
+  
+  - Supervised Methods
+  - Unsupervised (or semi supervised) Methods
+  - Decision tree problems and methods
+  - Clustering
+  - Dimensionality reduction
+
+
+##  Graph Mining
+
+Data mining and graph mining analytic methods
+igraph
+
+### Modularity
 
 Sites Used:
 
@@ -18,6 +36,9 @@ The following was requrired by igraph to work in script (CLI):
 
 Next to tackle:
 - https://blog.dominodatalab.com/social-network-analysis-with-networkx/
+
+
+
 
 ## Directories
 
